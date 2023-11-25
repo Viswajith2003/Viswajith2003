@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Self taught Full stack developer and highly passionate about the techi field.<br>I'm constantly trying to expand my skills & stay up to date with upcoming and<br>latest technologies. <br>Recently I'm try enhance my network and enjoy with collaburation work.<br><br>
+I am Self taught Full stack developer and highly passionate about the techi field.<br>I'm constantly trying to expand my skills & stay up to date with upcoming and<br>latest technologies.Recently I'm try enhance my network and enjoy with collaburation work.<br><br>
 
 
 ## 🌐 Socials:
