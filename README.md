@@ -1,5 +1,5 @@
 # 💫 Hai, I'm Viswajith
-<b>I am Self taught Full stack developer and highly passionate about the techi field.<br>I'm constantly trying to expand my skills & stay up to date with upcoming and<br>latest technologies.Recently I'm try enhance my network and enjoy with collaburation work.</b><br><br>
+<b>I am Self taught Full stack developer and highly passionate about the techi field. I'm constantly trying to expand my skills & stay up to date with upcoming and latest technologies.Recently I'm try enhance my network and enjoy with collaburation work.</b><br><br>
 
 
 ## 🌐 Let's Connect:
