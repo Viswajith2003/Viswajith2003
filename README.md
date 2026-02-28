@@ -1,30 +1,151 @@
-# 💫 Hai, I'm Viswajith
-<b>I am Self taught Full stack developer and highly passionate about the techi field. I'm constantly trying to expand my skills & stay up to date with upcoming and latest technologies.Recently I'm try enhance my network and enjoy with collaburation work.</b><br><br>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Viswajith VP</strong>
+</h1>
 
-## 🌐 Let's Connect:
+<h3>Full Stack Developer | MERN • AI • Web • Cloud</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viswajith_viswa03)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswajith-vp-b845a8242/) <br>
-🔗 **Portfolio:** [viswa-official.vercel.app](https://viswa-official.vercel.app/)
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
+  <p>
+    I am a <b>self-taught Full Stack Developer</b> who is highly passionate about the tech field 🚀  
+    I love building scalable web applications, clean UI experiences, and powerful backend systems.
+  </p>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Viswajith2003&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Viswajith2003&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viswajith2003&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p>
+    I’m constantly expanding my skills, staying updated with modern technologies, and growing my professional network.  
+    I enjoy collaboration, learning, and building impactful digital products.
+  </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Viswajith2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:viswajithvp@gmail.com"><img src="https://img.shields.io/badge/📧_Contact_Me-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Tech_Enthusiast-1e1e2e?style=for-the-badge" />
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://instagram.com/viswajith_viswa03">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Viswajith2003&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  <a href="https://www.linkedin.com/in/viswajith-vp-b845a8242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://viswa-official.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Viswajith2003">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Viswajith2003&style=flat-square&color=blue" alt="Profile Visit"/>
+
+</div>
+
+<br clear="all" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Viswajith2003&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Skills
+
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,typescript,php,dart" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>📚 Frameworks & Libraries</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flutter,redux,tailwind,bootstrap,jquery" />
+<br/><br/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,aws,vercel,gcp,androidstudio" />
+<br/><br/>
+
+</td>
+</tr>
+</table>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Viswajith2003&theme=dark&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Viswajith2003&show_icons=true&theme=radical&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswajith2003&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Viswajith2003&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Viswajith2003&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## ❤️ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/viswa">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Viswajith2003&icon=2&color=1" />
+</p>
