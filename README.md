@@ -11,7 +11,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I am a <b>self-taught Full Stack Developer</b> who is highly passionate about the tech field 🚀  
+    I am a <b>self-taught Full Stack AI Developer</b> who is highly passionate about the tech field 🚀  
     I love building scalable web applications, clean UI experiences, and powerful backend systems.
   </p>
 
